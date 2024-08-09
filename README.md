@@ -5,20 +5,13 @@
 </h1>
 
 <h3 align="center">
-  💻 My Favorite IDE:
+  📊 GitHub Stats:
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+  <img src="https://github-readme-stats.vercel.app/api?username=jien2&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
-<h3 align="center">
-  🤖 My Favorite Language:
-</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"> 
-</p>
 
 <h3 align="center">
   💼 Top Languages:
@@ -26,12 +19,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jien2&layout=compact" alt="Top Languages">
-</p>
-
-<h3 align="center">
-  📊 GitHub Stats:
-</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jien2&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
